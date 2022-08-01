@@ -5,10 +5,11 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Basic Core Programs");
-            Flipcoin.Calculatepercentage();
-            CheckLeapyear.Leapyear();
-            PowerofTwo.PowerValue();
-            Harmonic.Harmonicseries();
+            //Flipcoin.Calculatepercentage();
+            //CheckLeapyear.Leapyear();
+            //PowerofTwo.PowerValue();
+            //Harmonic.Harmonicseries();
+            PrimeFactor.FindPrimeFactors();
         }
     }
 }
