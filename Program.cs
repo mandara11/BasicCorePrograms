@@ -8,6 +8,7 @@
             Flipcoin.Calculatepercentage();
             CheckLeapyear.Leapyear();
             PowerofTwo.PowerValue();
+            Harmonic.Harmonicseries();
         }
     }
 }
