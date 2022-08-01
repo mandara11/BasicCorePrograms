@@ -12,7 +12,8 @@
             //PrimeFactor.FindPrimeFactors();
             //DivisionProblem.CheckQutientAndRemainder();
             //SwapTwoNumbers.Swaping();
-            CheckEvenOrOdd.EvenOrOdd();
+            //CheckEvenOrOdd.EvenOrOdd();
+            CheckVowelorConsonant.Check();
         }
     }
 }
