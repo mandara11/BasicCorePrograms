@@ -13,7 +13,8 @@
             //DivisionProblem.CheckQutientAndRemainder();
             //SwapTwoNumbers.Swaping();
             //CheckEvenOrOdd.EvenOrOdd();
-            CheckVowelorConsonant.Check();
+            //CheckVowelorConsonant.Check();
+            LargestAmongThreeNumbers.FindLargestAmongThreeNumbers();
         }
     }
 }
