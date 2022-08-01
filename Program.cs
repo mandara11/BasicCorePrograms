@@ -11,7 +11,8 @@
             //Harmonic.Harmonicseries();
             //PrimeFactor.FindPrimeFactors();
             //DivisionProblem.CheckQutientAndRemainder();
-            SwapTwoNumbers.Swaping();
+            //SwapTwoNumbers.Swaping();
+            CheckEvenOrOdd.EvenOrOdd();
         }
     }
 }
