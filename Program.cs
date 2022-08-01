@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Basic Core Programs");
             Flipcoin.Calculatepercentage();
+            CheckLeapyear.Leapyear();
         }
     }
 }
